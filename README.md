@@ -1,12 +1,12 @@
 # Sabiha Afrin Siddiqua
 ### Machine Learning Researcher
-#### Email : sabiha.afrin.siddiqua@gmail.com 
+
 ## EDUCATION
-Bachelor of Science in Computer Science and Engineering | Brac University | January 2019 - January 2023							       		
-Higher Secondary School Certificate, Science | Viqarunnisa Noon School & College | June 2016 - June 2018
+- Bachelor of Science in Computer Science and Engineering | Brac University | January 2019 - January 2023							       		
+- Higher Secondary School Certificate, Science | Viqarunnisa Noon School & College | June 2016 - June 2018
 
 ## RESEARCH INTEREST
-- Machine Learning — Deep learning — Computer Vision — Image Processing — NLP
+### Machine Learning — Deep learning — Computer Vision — Image Processing — NLP
   
 ## RESEARCH EXPERIENCE
 i) Undergraduate Thesis : Leveraging Robust CNN Architectures for Real-Time Object Recognition
@@ -40,13 +40,15 @@ Feature Extraction, Keras, TensorFlow, Numpy.
 ## WORK EXPERIENCE
 **The University of Queensland, Remote - Research Assistant**
 May 2024 - Present
-- Supporting research projects by conducting literature reviews, analyzing data.
-- Using statistical and data visualization tools to interpret findings and create reports.
+- Supporting research projects by conducting literature reviews, analyzing data
+- Using statistical and data visualization tools to interpret findings and create reports
+ 
 **Swift IT Ltd, Dhaka - Software Engineer Trainee**
 March 2023 - July 2023
 - Contributing and taking part in software and architectural development. Developing
-well-designed, efficient, and testable code.
-- Conducting software analysis, programming, testing, and debugging.
+well-designed, efficient, and testable code
+- Conducting software analysis, programming, testing, and debugging
+ 
 **Quantanite, Remote - Project Associate**
 February 2023 - March 2023
 - Various Data entries on designated portals/servers per the client's instructions
@@ -61,9 +63,10 @@ February 2023 - March 2023
  
 ## EXTRA-CURRICULAR ACTIVITY
 **Beta Microsoft Learn Student Ambassador**
-January 2023 - Present
+### January 2023 - Present
 - Helping students and their communities lead in their local tech circles, and develop technical skills.
+ 
 **BRAC University Computer Club**
-September 2020 - December 2022
+### September 2020 - December 2022
 - Creative Writer - Creative Department
 - Beginner level - Competitive Programmer
