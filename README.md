@@ -1,6 +1,6 @@
 # Sabiha Afrin Siddiqua
 ### Machine Learning Researcher
-[Email](mailto:[sabiha.afrin.siddiqua@gmail.com]) || [LinkedIn](https://www.linkedin.com/in/sabiha-afrin-07bb811aa/)
+[Email](mailto:sabiha.afrin.siddiqua@gmail.com) || [LinkedIn](https://www.linkedin.com/in/sabiha-afrin-07bb811aa/)
 
 ## EDUCATION
 - Bachelor of Science in Computer Science and Engineering | Brac University | January 2019 - January 2023							       		
