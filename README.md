@@ -10,24 +10,24 @@
 ### Machine Learning — Deep learning — Computer Vision — Image Processing — NLP
   
 ## **RESEARCH EXPERIENCE**
-i) Undergraduate Thesis : Leveraging Robust CNN Architectures for Real-Time Object Recognition
-from Conveyor belt
-### **Overview :** In this study, we offer a few algorithms to produce a better result on our customized dataset
+**i) Undergraduate Thesis : Leveraging Robust CNN Architectures for Real-Time Object Recognition
+from Conveyor belt**
+Overview : In this study, we offer a few algorithms to produce a better result on our customized dataset
 from an airport conveyor belt environment to find out if it can recognize objects and human babies for
 safety. Our analysis shows that our dataset fits the YOLOv5 architecture fairly well, with quite a better
 accuracy. Along with pre-trained deep learning models like VGG16, ResNet50, MobileNetv2, YOLOv7,
 and ViT, we have also implemented custom CNN models.
 [ [Conference Paper : CNN Architectures for Real-Time Object Recognition from Conveyor belt](https://ieeexplore.ieee.org/document/10212380) ]
 
-ii) Object Detection Model Using Pre-trained LLM By Implementing a Multi-step Process That
-Combines NLP Capabilities With Computer Vision Techniques (Ongoing)
-### **Overview :** In this study, we hope to develop a model which will take text instructions as a prompt for lost
+**ii) Object Detection Model Using Pre-trained LLM By Implementing a Multi-step Process That
+Combines NLP Capabilities With Computer Vision Techniques (Ongoing)**
+Overview : In this study, we hope to develop a model which will take text instructions as a prompt for lost
 objects and will scan video clips through Computer Vision techniques and give detected frames and
 timestamp as an output.
 
-iii) Enhancing Understanding of 3D Medical Images with Interactive Visualization and Explainable
-AI (Ongoing)
-### **Overview :** We intend to use Explainable Artificial Intelligence (XAI) approaches that can be incorporated
+**iii) Enhancing Understanding of 3D Medical Images with Interactive Visualization and Explainable
+AI (Ongoing)**
+Overview : We intend to use Explainable Artificial Intelligence (XAI) approaches that can be incorporated
 into interactive visualization tools for 3D medical images, allowing healthcare providers to navigate and
 interact with data in a natural and accessible way while receiving real-time input
 
