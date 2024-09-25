@@ -56,9 +56,9 @@ well-designed, efficient, and testable code
 - Documentation of Data auditing such as updating information in provided platforms
   
 ## **KEY UNDERGRADUATE PROJECTS**
-- Hospital Management System using PHP-Laravel
-- Real Estate System using phpMyAdmin-Java
-- Deep Learning Based Object Recognition using Python-Tensorflow
+- [Hospital Management System using PHP-Laravel](https://github.com/sabihaafrin/CSE470)
+- [Real Estate System using phpMyAdmin-Java](https://github.com/sabihaafrin/CSE370/blob/main/Real%20Estate%20Project)
+- [Deep Learning Based Object Recognition using Python-Tensorflow](https://github.com/sabihaafrin/CSE400)
 - Object Recognition and Line Follower Robot using WeBots simulation
 - Hardware Autonomous Hoverboard using Arduino UNO, Sensors, Controllers and Motors
  
