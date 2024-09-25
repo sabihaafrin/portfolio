@@ -17,7 +17,7 @@ from an airport conveyor belt environment to find out if it can recognize object
 safety. Our analysis shows that our dataset fits the YOLOv5 architecture fairly well, with quite a better
 accuracy. Along with pre-trained deep learning models like VGG16, ResNet50, MobileNetv2, YOLOv7,
 and ViT, we have also implemented custom CNN models.
-Conference Paper : CNN Architectures for Real-Time Object Recognition from Conveyor belt
+[Conference Paper : CNN Architectures for Real-Time Object Recognition from Conveyor belt](https://ieeexplore.ieee.org/document/10212380)
 
 ii) Object Detection Model Using Pre-trained LLM By Implementing a Multi-step Process That
 Combines NLP Capabilities With Computer Vision Techniques (Ongoing)
