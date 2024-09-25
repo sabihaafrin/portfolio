@@ -38,16 +38,16 @@ Feature Extraction, Keras, TensorFlow, Numpy.
 - Languages : Java, Python, JavaScript, HTML, CSS, MySQL.
  
 ## WORK EXPERIENCE
-**The University of Queensland, Remote - Research Assistant
+**The University of Queensland, Remote - Research Assistant**
 May 2024 - Present
 - Supporting research projects by conducting literature reviews, analyzing data.
 - Using statistical and data visualization tools to interpret findings and create reports.
-**Swift IT Ltd, Dhaka - Software Engineer Trainee
+**Swift IT Ltd, Dhaka - Software Engineer Trainee**
 March 2023 - July 2023
 - Contributing and taking part in software and architectural development. Developing
 well-designed, efficient, and testable code.
 - Conducting software analysis, programming, testing, and debugging.
-**Quantanite, Remote - Project Associate
+**Quantanite, Remote - Project Associate**
 February 2023 - March 2023
 - Various Data entries on designated portals/servers per the client's instructions
 - Documentation of Data auditing such as updating information in provided platforms
@@ -60,10 +60,10 @@ February 2023 - March 2023
 - Hardware Autonomous Hoverboard using Arduino UNO, Sensors, Controllers and Motors
  
 ## EXTRA-CURRICULAR ACTIVITY
-**Beta Microsoft Learn Student Ambassador
+**Beta Microsoft Learn Student Ambassador**
 January 2023 - Present
 - Helping students and their communities lead in their local tech circles, and develop technical skills.
-**BRAC University Computer Club
+**BRAC University Computer Club**
 September 2020 - December 2022
 - Creative Writer - Creative Department
 - Beginner level - Competitive Programmer
